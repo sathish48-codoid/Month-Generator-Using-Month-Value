@@ -1,6 +1,7 @@
 import setuptools
+# import gitubuntu.source_information
 
-with open("README.md", "r") as fh:
+with open("/home/codoid-dev/PycharmProjects/Month-Generator-Using-Month-Value/README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
@@ -11,7 +12,7 @@ setuptools.setup(
     description="It generate month using current month value",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/sathish48-codoid/Month-Generator-Using-Month-Value",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
