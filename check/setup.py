@@ -5,7 +5,7 @@ with open("/home/codoid-dev/PycharmProjects/Month-Generator-Using-Month-Value/RE
     long_description = fh.read()
 
 setuptools.setup(
-    name="Month generator", # Replace with your own username
+    name="Month generator", # R eplace with your own username
     version="0.0.1",
     author="sathish",
     author_email="samsathish48@gmail.com",
