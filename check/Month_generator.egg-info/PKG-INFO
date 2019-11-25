@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Month-generator
+Version: 0.0.1
+Summary: It generate month using current month value
+Home-page: https://github.com/sathish48-codoid/Month-Generator-Using-Month-Value
+Author: sathish
+Author-email: samsathish48@gmail.com
+License: UNKNOWN
+Description: # Month-Generator-Using-Month-Value
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
