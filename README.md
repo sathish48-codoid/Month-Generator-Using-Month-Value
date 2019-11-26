@@ -11,7 +11,8 @@ How to import
 
 from check_month import smonths
 
-Example1
+Example1:
+
      print(smonths.month())
 
     Result: ['November', 'December', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October']
