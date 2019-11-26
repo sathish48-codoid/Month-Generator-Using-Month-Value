@@ -1,5 +1,0 @@
-setup.py
-Month_generator.egg-info/PKG-INFO
-Month_generator.egg-info/SOURCES.txt
-Month_generator.egg-info/dependency_links.txt
-Month_generator.egg-info/top_level.txt
