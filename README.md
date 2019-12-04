@@ -2,7 +2,7 @@
 
 
 How to install
-pip install Month-generator-v1==0.0.5
+pip install Calendar-Month-List-View
 
 
 There are two main functions in this package Months,monthvalue
